@@ -52,6 +52,8 @@ int main() {
     printf("\n===== CARTAS CADASTRADAS =====\n");
     mostrarCarta(carta1, 1);
     mostrarCarta(carta2, 2);
-
+    printf("Novo comite\n");
+    
     return 0;
+
 }
